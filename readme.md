@@ -1,6 +1,6 @@
 # Button Counter:
 
-A simple web app to keep opened in the background and count how many jobs I applied to that day. (I lost my actual counter)
+A tool to keep opened on the phone and tally how many jobs I applied to that day.
 <br/>
 <br/>
 
