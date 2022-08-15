@@ -11,7 +11,7 @@ decBtn.addEventListener("click", decrementCounter);
 clearBtn.addEventListener("click", clearCounter);
 
 // functions
-
+// button functions
 function incrementCounter() {
   nrBox.innerHTML++;
 }
