@@ -5,10 +5,7 @@
   font-family: "Silkscreen", cursive;
   background-color: rgb(194, 202, 202);
 }
-h4 {
-  text-align: center;
-  padding: 20px;
-}
+
 .main-content {
   margin-top: 2rem;
   display: flex;
@@ -55,6 +52,9 @@ button {
     font-size: 20px;
     width: 50vw;
   }
+  h1 {
+    font-size: 1.5rem;
+  }
 }
 
 /*  MEDIA QUERIES - MOBILE PHONES  */
@@ -66,5 +66,8 @@ button {
   .nr-box {
     font-size: 10px;
     width: 50vw;
+  }
+  h1 {
+    font-size: 1rem;
   }
 }
