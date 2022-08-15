@@ -1,0 +1,17 @@
+* {
+  font-family: "Silkscreen", cursive;
+}
+
+.main-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nr-box {
+  border: 2px black;
+}
+
+.buttons {
+  display: flex;
+}
